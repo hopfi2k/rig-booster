@@ -30,3 +30,9 @@ Currently the following miners and coins are supported:
 * Zencash (ZEN)
 * Zcash (ZEC)
 * Komodo (KMD)
+
+**Miners**
+* EWBF's CUDA Zcash miner (https://bitcointalk.org/index.php?topic=1707546.0)
+* bminer (https://bminer.me)
+* dstm's Zcash / Equihash Nvidia Miner (https://bitcointalk.org/index.php?topic=2021765.0)
+
