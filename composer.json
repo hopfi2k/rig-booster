@@ -1,0 +1,17 @@
+{
+  "name": "hopfi2k/rig-booster",
+  "description": "stratum+tcp proxy boosting mining rig performance",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "hopfi2k@me.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "~7.0",
+    "datto/json-rpc-http": "~3.2"
+  }
+}
