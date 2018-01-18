@@ -14,9 +14,19 @@ Simple installation instructions:
 ```
 $ sudo apt install php-dev
 $ sudo pecl install swoole
-$ git clone https://github/hopfi2k/php-mining-proxy
+$ git clone https://github.com/hopfi2k/rig-booster.git
 $ composer install
-$ php ./rig-boost/boost.php
+$ php ./rig-booster/boost.php
 ```
 
 Point your browser to ```http://<ip-machine>:8888``` to access the web-interface and follow the instructions to setup your miners.
+
+Currently the following miners and coins are supported:
+
+**Equihash Algorithm**
+* Zclassic (ZCL)
+* Huhs (HUSH)
+* BitcoinGold (BTG)
+* Zencash (ZEN)
+* Zcash (ZEC)
+* Komodo (KMD)
